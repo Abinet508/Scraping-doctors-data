@@ -59,7 +59,7 @@ class DOCTOR_DATA:
     
     async def run(self):
         self.playwright = await async_playwright().start()
-        self.browser = await self.playwright.chromium.launch(headless=False)
+        self.browser = await self.playwright.chromium.launch(headless=True)
         self.context = await self.browser.new_context()
         self.page1 = await self.context.new_page()
         self.page = await self.context.new_page()
