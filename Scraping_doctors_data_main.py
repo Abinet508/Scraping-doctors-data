@@ -220,8 +220,8 @@ class DOCTOR_DATA:
                 index += 1
             phase += 1   
         df = pd.DataFrame(final_data)
-        df.to_xml("doctors_data.xml", root_name="Doctors", row_name="Doctor", index=False)
-        df.to_excel("doctors_data.xlsx", index=False)
+        df.to_xml("/var/www/html/doctors_data.xml", root_name="Doctors", row_name="Doctor", index=False)
+        df.to_excel("/var/www/html/doctors_data.xlsx", index=False)
         
     async def close(self):
         try:
