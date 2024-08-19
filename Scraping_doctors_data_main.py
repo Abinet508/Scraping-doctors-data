@@ -59,7 +59,7 @@ class DOCTOR_DATA:
     
     async def run(self):
         self.playwright = await async_playwright().start()
-        self.browser = await self.playwright.chromium.launch(headless=True)
+        self.browser = await self.playwright.firefox.launch(headless=True)
         self.context = await self.browser.new_context()
         self.page1 = await self.context.new_page()
         self.page = await self.context.new_page()
@@ -209,7 +209,7 @@ class DOCTOR_DATA:
                 for row_details in results:
                     final_data.append(row_details)
                 scraped_pages.add(pg_text)
-                await self.progress_bar(index, len(pager), prefix = f'PHASE: {phase} PAGE: {pg_text} PROGRESS:', suffix = f'COMPLETEd {index+1}/{len(pager)}', length = 50)
+                await self.progress_bar(index, len(pager), prefix = f'PHASE: {phase} PAGE: {pg_text} PROGRESS:', suffix = 'COMPLETED', length = 50)
                 
                 if len(previous_scraped_pages) == len(scraped_pages):
                     print("Completed", pg_text, len(scraped_pages)==len(previous_scraped_pages),not pg_text == "..." and isinstance(pg_text, int))
