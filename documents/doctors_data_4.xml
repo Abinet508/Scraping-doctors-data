@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Doctors>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>ALLAIS</Fornavne>
+    <Efternavn>Antoine-Émile</Efternavn>
+    <Fødselsdato>18-10-1965</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>11-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0G8GC</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Frankrig</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke/>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Allan</Fornavne>
+    <Efternavn>Clarelin</Efternavn>
+    <Fødselsdato>10-10-1995</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>07-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0G8GF</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Sverige</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke/>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Carl Gustaf Augustus</Fornavne>
+    <Efternavn>Mcmahon</Efternavn>
+    <Fødselsdato>04-12-1988</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>12-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0G8FQ</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Rumænien</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>12-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Christine Colette Aude</Fornavne>
+    <Efternavn>FRAYRET</Efternavn>
+    <Fødselsdato>12-12-1959</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>15-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0G8GW</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Frankrig</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>15-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Ewa Helene</Fornavne>
+    <Efternavn>Wacker</Efternavn>
+    <Fødselsdato>17-11-1997</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>15-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0G8GP</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Tyskland</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>15-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Ilias</Fornavne>
+    <Efternavn>Papoulias</Efternavn>
+    <Fødselsdato>30-12-1982</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>05-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0G8GQ</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Grækenland</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>05-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Jan Marcus Anders Fredriksson</Fornavne>
+    <Efternavn>Sundbom</Efternavn>
+    <Fødselsdato>26-03-1990</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>13-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0G8G1</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Sverige</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>13-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Jan Olof</Fornavne>
+    <Efternavn>Kask</Efternavn>
+    <Fødselsdato>15-01-1972</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>12-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0G8GB</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Sverige</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>12-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Justinas</Fornavne>
+    <Efternavn>Daraskevicius</Efternavn>
+    <Fødselsdato>05-12-1995</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>08-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0G8GD</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Litauen</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke/>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Karl Anders Mikael</Fornavne>
+    <Efternavn>Lundblad</Efternavn>
+    <Fødselsdato>17-02-1973</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>13-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0G8FY</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Sverige</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>13-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Kateryna</Fornavne>
+    <Efternavn>Barasheva</Efternavn>
+    <Fødselsdato>17-05-1991</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>12-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0FLNN</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Ukraine</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>12-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Katharina</Fornavne>
+    <Efternavn>Leuchte</Efternavn>
+    <Fødselsdato>03-09-1987</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>05-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0G8GT</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Tyskland</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>05-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Kristian Oddmarsson</Fornavne>
+    <Efternavn>Olsson</Efternavn>
+    <Fødselsdato>25-04-1995</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>09-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0FSKY</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Polen</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>09-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Louis Michel</Fornavne>
+    <Efternavn>Tagliati</Efternavn>
+    <Fødselsdato>01-06-1969</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>14-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0G8HW</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Sverige</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>14-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Mirza Saim</Fornavne>
+    <Efternavn>Baig</Efternavn>
+    <Fødselsdato>05-03-1993</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>06-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0G8CD</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Polen</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>06-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Mohammad Hussain</Fornavne>
+    <Efternavn>Erfani</Efternavn>
+    <Fødselsdato>31-12-1985</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>08-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0FMJF</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Iran</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>08-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Per Magnus Bengt</Fornavne>
+    <Efternavn>Jutell</Efternavn>
+    <Fødselsdato>12-04-1995</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>15-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0FM04</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Sverige</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>15-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Per Nils Johan</Fornavne>
+    <Efternavn>Viklund</Efternavn>
+    <Fødselsdato>15-09-1983</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>15-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0G8JQ</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Sverige</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>15-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Rasmus Erik</Fornavne>
+    <Efternavn>Pettersson</Efternavn>
+    <Fødselsdato>13-04-1991</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>08-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0G8DY</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Sverige</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>08-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Richard Glenn Gunnar</Fornavne>
+    <Efternavn>Ljungberg</Efternavn>
+    <Fødselsdato>07-06-1984</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>07-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0G8FB</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Sverige</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>07-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Sabah Lafta Ashash</Fornavne>
+    <Efternavn>Ashash</Efternavn>
+    <Fødselsdato>04-07-1987</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>15-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0FM3Z</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Irak</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>15-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Sarah Carolina</Fornavne>
+    <Efternavn>Jarnald</Efternavn>
+    <Fødselsdato>07-01-1982</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>09-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0G8H1</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Polen</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke>09-08-2024</Datofortilladelsetilselvstændigtvirke>
+  </Doctor>
+  <Doctor>
+    <Autorisationsstatus>Autorisation gyldig.</Autorisationsstatus>
+    <Fornavne>Zaid</Fornavne>
+    <Efternavn>Abbass</Efternavn>
+    <Fødselsdato>01-03-1992</Fødselsdato>
+    <Faggruppe>Læge</Faggruppe>
+    <Datoforudstedelseafautorisation>06-08-2024</Datoforudstedelseafautorisation>
+    <AutorisationsID>0G8CH</AutorisationsID>
+    <Uddannelseslandgrunduddannelse>Danmark</Uddannelseslandgrunduddannelse>
+    <Autorisationgyldig>N/A</Autorisationgyldig>
+    <Datofortilladelsetilselvstændigtvirke/>
+  </Doctor>
+</Doctors>
